@@ -17,14 +17,10 @@ This challenge is designed to provide practical, hands-on experience with Go, co
 
 Each folder in this repository represents one day of the challenge. The project for each day is stored in its respective folder:
 
-1. [Day 1: Todo List Manager](./Day%201/)
-2. Day 2: Prime Number Finder
-3. Day 3: Simple Web Server with Routing
-4. Day 4: Currency Converter with API
-5. Day 5: File Downloader with Progress Bar
-6. Day 6: Markdown to HTML Converter
-7. Day 7: Web Scraper with Concurrency
-8. ...
+1. Day 1
+2. Day 2
+3. Day 3
+4. ...
    
 Check the specific `README.md` files in each day's folder for instructions on how to run and use that day's project.
 
