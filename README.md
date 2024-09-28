@@ -41,6 +41,9 @@ Each folder contains:
 - A `README.md` with instructions on how to run and use the project.
 
 Feel free to clone or fork this repository, complete the challenge yourself, or use it as a learning resource for Go programming!
+There is also a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4knoR0MSAccdxTECMTm5bFX7Z4KYA-2iF3sVP8YMumRMoK94Im3s25kKoQrcF_06GHnwxmEMUBXQR/pubhtml) I made to help you keep track of the problems and the subtasks, feel free to download it :)
+
+
 
 ## Requirements
 
