@@ -2,6 +2,7 @@
 # Prime Number Finder
 
 This project is a simple program written in Go that finds all prime numbers up to a specified limit. It contains a single function that checks for prime numbers and returns them as a list. The solution does not use concurrency or workers, making it simple and easy to understand.
+The original challenge was to use concurrency, but due to lack of knowledge currently I decided to use a different, simpler approach. Will revisit it in a couple of days :)
 
 ## How It Works
 
