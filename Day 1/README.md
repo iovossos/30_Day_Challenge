@@ -17,7 +17,7 @@ This is the Day 1 project of the 30-Day Go Programming Challenge. It's a simple 
 Clone this repository and navigate to the `Day 1` directory.
 
 ```bash
-git clone https://github.com/your-username/30_Day_Challenge.git
+git clone https://github.com/iovossos/30_Day_Challenge.git
 cd 30_Day_Challenge/Day\ 1
 ```
 
@@ -79,11 +79,3 @@ Tasks are stored in a `tasks.json` file in the same directory as the program. Th
   ]
 }
 ```
-
-## Requirements
-
-- **Go**: You need Go installed to run this program. You can download it [here](https://golang.org/dl/).
-
-## License
-
-This project is open source under the [MIT License](LICENSE).
