@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML - Minimalist Theme</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            color: #333;
+            background-color: #fff;
+            margin: 40px auto;
+            max-width: 800px;
+            line-height: 1.6;
+            padding: 0 20px;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #333;
+        }
+        h2, h3 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            color: #666;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        pre {
+            background: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 10px;
+            overflow: auto;
+            border-radius: 5px;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 3px;
+            border-radius: 3px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        {{ .Content }}
+    </div>
+</body>
+</html>
