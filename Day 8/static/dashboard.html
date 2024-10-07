@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="main.js" defer></script>
+    <title>Task Manager Dashboard</title>
+</head>
+<body>
+    <h1>Welcome to your task manager!</h1>
+    
+    <form id="taskForm">
+        <input type="text" id="taskTitle" placeholder="Task Title" required>
+        <textarea id="taskContent" placeholder="Task Content" required></textarea>
+        <button type="submit">Create Task</button>
+    </form>
+
+    <button id="listTasks">List Tasks</button>
+    <ul id="taskList"></ul>
+
+    <button id="logout">Log Out</button>
+
+    <script>
+        document.getElementById("logout").addEventListener("click", function () {
+            // Perform logout actions here, such as clearing cookies or redirecting
+            window.location.href = "/static/login.html"; // Redirect to login page
+        });
+    </script>
+</body>
+</html>
