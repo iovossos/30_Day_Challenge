@@ -104,8 +104,6 @@ Total expenses: 30
 #### `expense.go`
 - **`Expense` struct**: Defines the structure for an expense, including fields for description, amount, and date.
 - **Methods** for creating, validating, and handling expense data.
-
-#### `storage.go`
 - **`SaveExpenses()`**: Writes all expense data to the JSON file (`expenses.json`).
 - **`LoadExpenses()`**: Loads and returns the expense data from the JSON file upon application startup.
 
