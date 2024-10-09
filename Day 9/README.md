@@ -26,10 +26,13 @@ The application is designed to:
 
 ```
 ExpenseTracker/
-├── main.go              # Entry point that runs the menu-driven interface
-├── expense.go           # Contains structs and methods for handling expenses
-├── storage.go           # Handles reading from and writing to the JSON file
-└── report.go            # Logic for generating reports
+├── main.go             # Entry point that runs the menu-driven interface
+├── data/               # Folder where data is stored
+│   └ expense.json       
+├── expense/            # Contains structs and methods for handling expenses
+│   └ expense.go
+├── report/             # Logic for generating reports
+│   └ report.go           
 ```
 
 ## How to Run the Program
