@@ -1,5 +1,5 @@
 # 30-Day Go Programming Challenge
-##This Challenge has ended earlier than expected due to unforseen circumstances(mainly me picking another project up thats taking most of my time D:). But no worries, we keep going :)##
+## This Challenge has ended earlier than expected due to unforseen circumstances(mainly me picking another project up thats taking most of my time D:). But no worries, we keep going :)
 Welcome to the **30-Day Go Programming Challenge**! This repository contains a series of projects and exercises, each completed over the span of 30 days, with the goal of enhancing Go programming skills and building a portfolio of projects. Each day focuses on a new project, increasing in complexity as the challenge progresses.
 
 ## Challenge Overview
